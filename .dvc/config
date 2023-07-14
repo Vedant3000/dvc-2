@@ -1,4 +1,6 @@
 [core]
-    remote = rem
+    remote = guide
 ['remote "rem"']
     url = /home/nvidia/Documents/dvc
+['remote "guide"']
+    url = /home/nvidia/Documents/dvc/
