@@ -1,0 +1,4 @@
+[core]
+    remote = rem
+['remote "rem"']
+    url = /home/nvidia/Documents/dvc
